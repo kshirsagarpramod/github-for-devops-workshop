@@ -1,0 +1,33 @@
+python testing.py
+clear
+python testing.py
+git status
+git add testing.py
+git status
+git commit -m "added the file in testing"
+git status
+python rm testing.py
+git status
+python testing.py
+ls
+git status
+git restore testing.py
+git pull
+git restore --staged testing.py
+git restore --staged testing.py
+git status
+git restore testing.py
+git remote add origin < remote repo path >
+git remote -v
+git status
+git remote set-url origin https://PAT@github.com/kshirsagarpramod/github-for-devops-workshop.git
+git push origin master
+git status
+git commit -m "commnad file added"
+git push origin master
+
+git remote add origin https://PAT@github.com/kshirsagarpramod/github-for-devops-workshop.git
+
+origin  https://PAT/kshirsagarpramod/github-for-devops-workshop.git (fetch)
+origin  https://PAT/kshirsagarpramod/github-for-devops-workshop.git (push)
+https://github.com/kshirsagarpramod/github-for-devops-workshop.git
