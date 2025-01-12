@@ -25,9 +25,8 @@ git push origin master
 git status
 git commit -m "commnad file added"
 git push origin master
-
 git remote add origin https://PAT@github.com/kshirsagarpramod/github-for-devops-workshop.git
-
 origin  https://PAT/kshirsagarpramod/github-for-devops-workshop.git (fetch)
 origin  https://PAT/kshirsagarpramod/github-for-devops-workshop.git (push)
 https://github.com/kshirsagarpramod/github-for-devops-workshop.git
+New changes added in file
